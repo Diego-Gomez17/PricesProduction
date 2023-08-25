@@ -3,7 +3,7 @@
 Es una aplicacion de escritorio que permite sacar el costo de la horas de trabajo de un freelance 
 de cualquier academia. para ello sigue las siguiente estroctura de precio
 
-### Insumo (I)
+## Insumo (I)
 se deben añadir los costos de los elementos necesario para la produccion
 el insumo se multiplica por 2 debido a que se projectan posibles errores en la produccion
 o materiales dañados de fabrica
